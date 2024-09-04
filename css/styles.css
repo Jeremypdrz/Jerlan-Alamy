@@ -1,0 +1,16 @@
+body {
+	font-family: 'Times New Roman', Times, serif;
+}
+
+.navbar{
+	margin-bottom: 20px;
+}
+.navbar {
+	position: fixed;
+	width: 100%;
+	top: 0;
+	z-index: 1000;
+}
+body {
+	padding-top: 70px; /* Ajustar segun la altura de la navbar */
+}
